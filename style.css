@@ -1,0 +1,10 @@
+.custom {
+    background-image: url("weather.jpg");
+}
+#button {
+    color: burlywood;
+    
+}
+#button:hover {
+    color: forestgreen;
+}
